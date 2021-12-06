@@ -1,0 +1,19 @@
+{
+  "key.shadowcollectormod.summon_shadows": "Summon Shadows",
+  "key.shadowcollectormod.unsummon_shadows": "Unsummon Shadows",
+  "item.shadowcollectormod.common_shadow_soul": "Common Shadow Soul",
+  "entity.shadowcollectormod.common_shadow": "Common Shadow",
+  "item.minecraft.lingering_potion.effect.mana_potion": "Lingering Potion of Mana",
+  "item.minecraft.potion.effect.mana_potion": "Potion of Mana",
+  "item.minecraft.splash_potion.effect.mana_potion": "Splash Potion of Mana",
+
+  "item.minecraft.lingering_potion.effect.mana_potion_ii": "Lingering Potion of Mana II",
+  "item.minecraft.potion.effect.mana_potion_ii": "Potion of Mana II",
+  "item.minecraft.splash_potion.effect.mana_potion_ii": "Splash Potion of Mana II",
+
+  "item.minecraft.lingering_potion.effect.mana_potion_iii": "Lingering Potion of Mana III",
+  "item.minecraft.potion.effect.mana_potion_iii": "Potion of Mana III",
+  "item.minecraft.splash_potion.effect.mana_potion_iii": "Splash Potion of Mana III",
+
+  "effect.mana_effect": "Mana Effect"
+}
